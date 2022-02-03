@@ -1,7 +1,6 @@
 package Bin2Dec;
 
 import java.io.IOException;
-import java.util.Scanner;
 
 public class Bin2Dec {
     
